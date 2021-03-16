@@ -1,0 +1,18 @@
+
+[python:S5754"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8…í¡Ýƒ/
+vpython:S117"SRename this parameter "tgtHost" to match the regular expression ^[_a-z][a-z0-9_]*$.(íîÿ‰ÿÿÿÿÿ8…í¡Ýƒ/
+python:S117,"\Rename this local variable "target_Host" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ëô€«üÿÿÿÿ8ÓÏ¬Ýƒ/
+vpython:S117"XRename this local variable "tgtName" to match the regular expression ^[_a-z][a-z0-9_]*$.(®íÙ–8¾ˆðÜƒ/
+kpython:S2208	"GImport only needed names or import the module and then use its members.(·©Äîûÿÿÿÿ8ìéÞÛƒ/
+vpython:S117""XRename this local variable "tgtPort" to match the regular expression ^[_a-z][a-z0-9_]*$.(çè¶Ž8ØÉ„Ýƒ/
+vpython:S117"SRename this parameter "tgtHost" to match the regular expression ^[_a-z][a-z0-9_]*$.(·›´¯ýÿÿÿÿ8†°ÚÜƒ/
+wpython:S117"TRename this parameter "tgtPorts" to match the regular expression ^[_a-z][a-z0-9_]*$.(·›´¯ýÿÿÿÿ8†°ÚÜƒ/
+opython:S930"LRemove 1 unexpected arguments; 'gethostname' expects 0 positional arguments.(Ë›ñ¯ùÿÿÿÿ8†°ÚÜƒ/
+rpython:S1542"NRename function "connScan" to match the regular expression ^[a-z_][a-z0-9_]*$.(íîÿ‰ÿÿÿÿÿ8…í¡Ýƒ/
+[python:S5754"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8ŒÃÚÜƒ/
+vpython:S117"SRename this parameter "tgtPort" to match the regular expression ^[_a-z][a-z0-9_]*$.(íîÿ‰ÿÿÿÿÿ8…í¡Ýƒ/
+ypython:S117"VRename this local variable "tgtIp" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ë›ñ¯ùÿÿÿÿ8†°ÚÜƒ/
+kpython:S2208"GImport only needed names or import the module and then use its members.(¬½ëÕÿÿÿÿÿ8ìéÞÛƒ/
+rpython:S1542"NRename function "portScan" to match the regular expression ^[a-z_][a-z0-9_]*$.(·›´¯ýÿÿÿÿ8†°ÚÜƒ/
+[python:S5754"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8¾ˆðÜƒ/
+{python:S117-"]Rename this local variable "target_Ports" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒªùë8ÓÏ¬Ýƒ/
